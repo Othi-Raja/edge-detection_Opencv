@@ -194,6 +194,17 @@ EdgeDetectionViewer/
         └── README.md
 
 ```
+
+
+##Sample Image
+
+<img width="1919" height="914" alt="Screenshot 2025-10-07 175903" src="https://github.com/user-attachments/assets/1e887af6-0077-4871-b050-bcfc4d27b0fb" />
+
+<img width="1917" height="930" alt="Screenshot 2025-10-07 171748" src="https://github.com/user-attachments/assets/38a77052-dfbd-4148-8928-747473339647" />
+
+## Parameters
+<img width="646" height="764" alt="Screenshot 2025-10-07 180021" src="https://github.com/user-attachments/assets/82b98ba4-786a-4ff8-b124-443d5efd31fe" />
+
 ## Running the Web App
 
 ```bash
@@ -315,32 +326,16 @@ This project demonstrates:
 
 ## ✨ Key Achievements
 
-1. ✅ **Functional real-time processing** at 20+ FPS
-2. ✅ **Clean modular architecture** with clear separation
-3. ✅ **Proper Git structure** with meaningful commits
-4. ✅ **Cross-platform integration** (Android + Web)
-5. ✅ **Production-ready code** with error handling
-6. ✅ **Comprehensive documentation** for all components
-7. ✅ **Performance optimization** meeting targets
+1. ✅ *Functional real-time processing* at 20+ FPS
+2. ✅ *Clean modular architecture* with clear separation
+3. ✅ *Proper Git structure* with meaningful commits
+4. ✅ *Cross-platform integration* (Android + Web)
+5. ✅ *Production-ready code* with error handling
+6. ✅ *Comprehensive documentation* for all components
+7. ✅ *Performance optimization* meeting targets
 
-## 🎯 Assessment Criteria Met
-
-| Criteria | Score | Evidence |
-|----------|-------|----------|
-| Tech Stack Coverage | 5/5 | All required technologies used |
-| Architecture | 5/5 | Modular, clean, documented |
-| Functionality | 5/5 | All features working |
-| Performance | 4/5 | Meets targets, optimizable |
-| Code Quality | 5/5 | Clean, commented, idiomatic |
-| Documentation | 5/5 | Comprehensive README & guides |
-| Git Usage | 5/5 | Proper structure and commits |
-| **Overall** |**34/35** | **97% Complete** |
+ 
 
 ---
 
-**Project Status:** ✅ **READY FOR EVALUATION**
-
-**Estimated Completion Time:** 8-10 hours
-**Actual Complexity:** Production-grade implementation
-**Maintainability:** High (modular, documented)
-**Scalability:** Good (extensible architecture)
+ 
