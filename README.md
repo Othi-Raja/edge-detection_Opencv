@@ -334,7 +334,7 @@ This project demonstrates:
 | Code Quality | 5/5 | Clean, commented, idiomatic |
 | Documentation | 5/5 | Comprehensive README & guides |
 | Git Usage | 5/5 | Proper structure and commits |
-| **Overall** | **34/35** | **97% Complete** |
+| **Overall** |**34/35** | **97% Complete** |
 
 ---
 
