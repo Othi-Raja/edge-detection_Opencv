@@ -195,7 +195,7 @@ EdgeDetectionViewer/
 
 ```
 
-## Running the Web App
+
 
 ##Sample Image for Web
 
@@ -209,6 +209,9 @@ EdgeDetectionViewer/
 ## Android
 <img width="462" height="337" alt="Screenshot 2025-10-07 172307" src="https://github.com/user-attachments/assets/efffa0ff-ed1c-4865-af27-2107a7f68fd0" />
 
+
+
+## Running the Web App
 
 ```bash
 # Clone the repo
